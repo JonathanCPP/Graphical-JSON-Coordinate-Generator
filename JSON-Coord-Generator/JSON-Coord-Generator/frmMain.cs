@@ -22,6 +22,8 @@ namespace JSON_Coord_Generator
         public static string name;              //filename
         byte bytCoordsGood;                     //decide whether to start program or not based on conditions passes
 
+        Form Help = new About();                //generate help window
+
         public frmMenu()
         {
             InitializeComponent();
@@ -61,6 +63,16 @@ namespace JSON_Coord_Generator
             {
                 bytCoordsGood = 0;
             }
+        }
+
+        /// <summary>
+        /// show the help window
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void lblHelp_Click(object sender, EventArgs e)
+        {
+            Help.ShowDialog();
         }
     }
 }

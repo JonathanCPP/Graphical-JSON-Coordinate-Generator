@@ -37,6 +37,7 @@ namespace JSON_Coord_Generator
             this.button1 = new System.Windows.Forms.Button();
             this.lblBlocks = new System.Windows.Forms.Label();
             this.lblStacks = new System.Windows.Forms.Label();
+            this.lblHelp = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // pnlGrid
@@ -120,12 +121,27 @@ namespace JSON_Coord_Generator
             this.lblStacks.TabIndex = 7;
             this.lblStacks.Text = "Stacks : 0";
             // 
+            // lblHelp
+            // 
+            this.lblHelp.AutoSize = true;
+            this.lblHelp.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lblHelp.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.lblHelp.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHelp.ForeColor = System.Drawing.SystemColors.Control;
+            this.lblHelp.Location = new System.Drawing.Point(605, 9);
+            this.lblHelp.Name = "lblHelp";
+            this.lblHelp.Size = new System.Drawing.Size(62, 27);
+            this.lblHelp.TabIndex = 10;
+            this.lblHelp.Text = "Help";
+            this.lblHelp.Click += new System.EventHandler(this.lblHelp_Click);
+            // 
             // frmGrid
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(1264, 681);
+            this.Controls.Add(this.lblHelp);
             this.Controls.Add(this.lblStacks);
             this.Controls.Add(this.lblBlocks);
             this.Controls.Add(this.button1);
@@ -154,5 +170,6 @@ namespace JSON_Coord_Generator
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label lblBlocks;
         private System.Windows.Forms.Label lblStacks;
+        private System.Windows.Forms.Label lblHelp;
     }
 }

@@ -27,6 +27,7 @@ namespace JSON_Coord_Generator
         bool hovermode = false;             //turn on hover to place blocks
         int BlockCounter;                   //tell how many blocks you need for the building
         Button[,,] GridSquare;              //array system for buttons
+        Form Help = new About();            //generate help window
 
         public frmGrid()
         {
@@ -293,6 +294,16 @@ namespace JSON_Coord_Generator
             TW.Close();
             MessageBox.Show("Successfully saved \""+frmMenu.name+"\" in the same folder as the current .exe file.", "Success !");
             commaput = false;
+        }
+
+        /// <summary>
+        /// show the help window
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void lblHelp_Click(object sender, EventArgs e)
+        {
+                Help.ShowDialog();
         }
     }
 }

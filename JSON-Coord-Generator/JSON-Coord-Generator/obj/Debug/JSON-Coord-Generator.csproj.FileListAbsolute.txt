@@ -31,3 +31,16 @@ G:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\De
 G:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON-Coord-Generator.exe
 G:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON-Coord-Generator.pdb
 F:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON_Coord_Generator.frmGrid.resources
+G:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON_Coord_Generator.About.resources
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\bin\Debug\JSON-Coord-Generator.exe.config
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\bin\Debug\JSON-Coord-Generator.exe
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\bin\Debug\JSON-Coord-Generator.pdb
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON-Coord-Generator.csprojAssemblyReference.cache
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON_Coord_Generator.About.resources
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON_Coord_Generator.frmGrid.resources
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON_Coord_Generator.frmMenu.resources
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON_Coord_Generator.Properties.Resources.resources
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON-Coord-Generator.csproj.GenerateResource.cache
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON-Coord-Generator.csproj.CoreCompileInputs.cache
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON-Coord-Generator.exe
+D:\7 - Work with files\Graphical-JSON-Coordinate-Generator\JSON-Coord-Generator\JSON-Coord-Generator\obj\Debug\JSON-Coord-Generator.pdb

@@ -20,3 +20,4 @@ E:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\Re
 E:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\Release\JSON-Coord-Generator.csproj.CoreCompileInputs.cache
 E:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\Release\JSON-Coord-Generator.exe
 E:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\Release\JSON-Coord-Generator.pdb
+G:\05-perso\P_StructureBuilding\JSON-Coord-Generator\JSON-Coord-Generator\obj\Release\JSON_Coord_Generator.About.resources
