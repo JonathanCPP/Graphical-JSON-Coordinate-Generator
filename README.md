@@ -1,5 +1,5 @@
 # Description
-Generates a .json file with user settings determined by a graphical interface.
+Generates a .json file with coordinates determined by a graphical interface.
 # How to use it
 Filename : sets the name of the file when saved <br/><br/>
 X, Y and Z : Builds the grid with the corresponding entered values<br/><br/>
